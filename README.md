@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Luis Felipe! Welcome to my repository page!</h1>
 <h3 align="center">🧠 I'm focusing on becoming a Full Stack Developer.</h3>
 
-<div style="display: flex, justify-content: space-between">
+<div display="flex" justify="center">
     <p>
         <a href="https://github.com/ryo-ma/github-profile-trophy">
             <img src="https://github-profile-trophy.vercel.app/?username=luisfelipeap" alt="luisfelipeap" />
