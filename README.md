@@ -1,9 +1,14 @@
 <div align="left">
-  <h1>👋 Hi, I'm Luis Felipe! Welcome to my repository page!</h1>
-  <h3>🧠 I'm focusing on becoming a Full Stack Developer.</h3>
-  <h3>🤔 So I'm learning more about JavaScript and its libraries.</h3>
-  <h3>⚡️ I speak English and Portuguese fluenty!</h3>
+  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 </div>
+
+<p>
+  Welcome to my page! </br> I'm Luís Felipe, Frontend developer from <b>Rio de Janeiro, Brazil</b>.
+</p>
+<p>
+  I'm focusing on becoming a Fullstack Developer soon</br>
+  So I'm learning more and more about JavaScript and its frameworks and libraries.
+</p>
 
 ##
 
@@ -26,14 +31,15 @@
 <div align="center">
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="GitHub actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </div>
 
 ##
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfelipeap&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfelipeap&show_icons=true&theme=dark&locale=en&layout=compact" />
+  <a href="https://github.com/LuisFelipeAP?tab=repositories" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfelipeap&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfelipeap&show_icons=true&theme=dark&locale=en&layout=compact" />
+  </a>
 </div>
 
 ##
