@@ -1,13 +1,8 @@
-<h1 align="center">👋 Hi, I'm Luis Felipe! Welcome to my repository page!</h1>
-<h3 align="center">🧠 I'm focusing on becoming a Full Stack Developer.</h3>
+<h1 align="left">👋 Hi, I'm Luis Felipe! Welcome to my repository page!</h1>
+<h3 align="left">🧠 I'm focusing on becoming a Full Stack Developer.</h3>
+<h3 align="left">🤔 So I'm learning more about JavaScript and its libraries.</h3>
 
-<div display="flex" justify="center">
-    <p>
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=luisfelipeap" alt="luisfelipeap" />
-        </a>
-    </p>
-</div>
+<p align="center" margin="20px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisfelipeap" alt="luisfelipeap" /></a> </p>
 
 - 💬 Ask me about **CSS, Javascript and React**
 
