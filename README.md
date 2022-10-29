@@ -1,17 +1,18 @@
 <div align="left">
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+  
+  <p>
+    Welcome to my page! </br> I'm Luís Felipe, Frontend developer from <b>Rio de Janeiro, Brazil</b>.
+  </p>
+  <p>
+    I'm focusing on becoming a Fullstack Developer soon</br>
+    So I'm learning more and more about JavaScript and its frameworks and libraries.
+  </p>
 </div>
-
-<p>
-  Welcome to my page! </br> I'm Luís Felipe, Frontend developer from <b>Rio de Janeiro, Brazil</b>.
-</p>
-<p>
-  I'm focusing on becoming a Fullstack Developer soon</br>
-  So I'm learning more and more about JavaScript and its frameworks and libraries.
-</p>
 
 ##
 
+<h3 align="center">Tecnologies I'm confortable with:</h3>
 <div align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
