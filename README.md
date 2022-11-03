@@ -69,7 +69,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/luis-felipe-pinto/">
+  <a href="https://www.linkedin.com/in/luisfelipe-pinto/">
     <img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
   </a>
   <a href="https://twitter.com/FelipeDaag">
