@@ -20,6 +20,7 @@
     <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
     <img alt="Vite" src="https://img.shields.io/badge/vite-%230d1117.svg?style=for-the-badge&logo=vite&logoColor=%23646CFF"/>
     <img alt="Next" src="https://img.shields.io/badge/next.js-%230d1117.svg?style=for-the-badge&logo=next.js"/>
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-%230d1117.svg?style=for-the-badge&logo=figma"/>
   </div>
   <div>
     <img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5"/>
@@ -57,11 +58,11 @@
 
 <div align="center"><a href="https://github.com/LuisFelipeAP?tab=repositories" target="_blank">
   <div>
-    <img alt="My GitHub Status" height="100%" src="https://github-readme-stats.vercel.app/api?username=luisfelipeap&hide=contribs,prs&count_private=true&include_all_commits=true&hide_title=true&card_width=200px&text_color=14b8a6&show_icons=true&icon_color=14b8a6&hide_border=true&border_radius=15&border_color=0d1117&theme=gotham&bg_color=0d1117" />
-    <img alt="My Top Languages" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfelipeap&text_color=14b8a6&layout=compact&hide_border=true&border_radius=15&border_color=0d1117&theme=gotham&bg_color=0d1117" />
+    <img alt="My GitHub Status" height="100%" src="https://github-readme-stats.vercel.app/api?username=luisfelipeap&hide=contribs,prs&count_private=true&include_all_commits=true&hide_title=true&card_width=200px&text_color=14b8a6&show_icons=true&icon_color=14b8a6&hide_border=true&border_radius=5&border_color=0d1117&theme=gotham&bg_color=0d1117" />
+    <img alt="My Top Languages" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfelipeap&text_color=14b8a6&layout=compact&hide_border=true&border_radius=5&border_color=0d1117&theme=gotham&bg_color=0d1117" />
   </div>
   <div>
-    <img alt="My Commit Streak" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=luisfelipeap&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" />
+    <img alt="My Commit Streak" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=luisfelipeap&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&border_radius=5&bg_color=0d1117" />
   </div>
 </a></div>
 
