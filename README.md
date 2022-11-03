@@ -40,7 +40,7 @@
 
 ##
 
-<h3 align="center">Skills I'm currently developing:</h3>
+<h3 align="center">Skills I'm currently improving at:</h3>
 <div align="center"><a href="https://github.com/LuisFelipeAP?tab=repositories" target="_blank">
   <div>
     <img alt="React Native" src="https://img.shields.io/badge/reactnative-%230d1117.svg?style=for-the-badge&logo=react" />
