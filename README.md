@@ -1,5 +1,8 @@
 <div align="left">
-  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+  <h1>
+    <img alt="Friendly smiling emoji" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+    Hey! Nice to see you.
+  </h1>
   
   <p>
     Welcome to my page! </br> I'm Luís Felipe, Frontend developer from <b>Rio de Janeiro, Brazil</b>.
@@ -33,8 +36,6 @@
   <div>
     <img alt="git" src="https://img.shields.io/badge/git-%230d1117.svg?style=for-the-badge&logo=git&logoColor=F05032"/>
     <img alt="Linux" src="https://img.shields.io/badge/linux-%230d1117.svg?style=for-the-badge&logo=linux"/>
-    
-    
   </div>
 </a></div>
 
@@ -58,11 +59,13 @@
 
 <div align="center"><a href="https://github.com/LuisFelipeAP?tab=repositories" target="_blank">
   <div>
-    <img alt="My GitHub Status" height="100%" src="https://github-readme-stats.vercel.app/api?username=luisfelipeap&hide=contribs,stars&count_private=true&include_all_commits=true&hide_title=true&text_color=14b8a6&show_icons=true&icon_color=14b8a6&hide_border=true&border_radius=5&border_color=0d1117&theme=gotham&bg_color=0d1117" />
-    <img alt="My Top Languages" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfelipeap&text_color=14b8a6&layout=compact&hide_border=true&border_radius=5&border_color=0d1117&theme=gotham&bg_color=0d1117" />
+    <img alt="My Commit Streak" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=luisfelipeap&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&border_radius=5&bg_color=0d1117" />
   </div>
   <div>
-    <img alt="My Commit Streak" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=luisfelipeap&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&border_radius=5&bg_color=0d1117" />
+    <img alt="My GitHub Status" height="100%" src="https://github-readme-stats.vercel.app/api?username=luisfelipeap&hide=contribs,stars&count_private=true&include_all_commits=true&hide_title=true&text_color=14b8a6&show_icons=true&icon_color=14b8a6&hide_border=true&border_radius=5&border_color=0d1117&theme=gotham&bg_color=0d1117" />
+  </div>
+  <div>
+    <img alt="My Top Languages" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfelipeap&text_color=14b8a6&layout=compact&hide_border=true&border_radius=5&border_color=0d1117&theme=gotham&bg_color=0d1117" />
   </div>
 </a></div>
 
